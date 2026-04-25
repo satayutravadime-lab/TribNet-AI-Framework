@@ -1,0 +1,11 @@
+coating_id,material,deposition_method,hardness_gpa,friction_coeff,wear_rate_1e6,temp_max_c
+1,MoS2_pure,Magnetron_Sputtering,2.0,0.05,1.2,400
+2,WS2_pure,Magnetron_Sputtering,3.5,0.06,1.0,500
+3,DLC_aC_H,CVD,22.0,0.10,0.45,300
+4,TiAlN,Cathodic_Arc_PVD,33.0,0.45,0.75,900
+5,Graphene_DLC,PECVD,8.5,0.04,0.55,600
+6,MXene_Ti3C2,PLD,6.5,0.065,0.42,700
+7,WS2_MoS2_Hybrid,Magnetron_Sputtering,5.0,0.04,0.30,550
+8,CrN_MoS2_Multilayer,Magnetron_Sputtering,22.0,0.09,0.24,800
+9,hBN_Composite,PECVD,5.5,0.13,0.65,900
+10,TiSiN_DLC,Cathodic_Arc_PVD,36.0,0.11,0.18,500
